@@ -1,0 +1,6 @@
+---
+- name: Installeer php-mysql
+  apt:
+    name: php-mysql
+    state: present
+    update_cache: yes
