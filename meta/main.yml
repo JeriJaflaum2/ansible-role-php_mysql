@@ -1,0 +1,15 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: Jeri Jaflaum
+  description: php_Mysql
+  company: Windesheim
+  license: HBO-ICT
+  min_ansible_version: 2.9
+  platforms:
+    - name: Linux
+      versions:
+        - all
+  galaxy_tags:
+    - web
